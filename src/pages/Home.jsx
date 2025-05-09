@@ -17,6 +17,11 @@ const Home = () => {
           <h1 className="text-4xl sm:text-5xl md:text-[3.75rem] font-bold leading-tight text-gray-900">
             Secure Your Data with the <span className="text-green-600">Invisible Cloud</span>
           </h1>
+          <p className="text-base sm:text-lg text-gray-700"> Powered by
+            <span className="text-green-600 font-bold"> Generative AI based </span>
+            <span className="text-green-600 font-bold"> Security Automation</span>
+
+          </p>
           <p className="text-base sm:text-lg text-gray-700">
             <span className="text-green-600 font-bold">Zero Knowledge</span>,
             <span className="text-green-600 font-bold"> Quantum-Safe</span>,
@@ -28,7 +33,7 @@ const Home = () => {
               Download Our Zero trust, Invisible cross cloud gateway
             </button>
           </a> */}
-           <Link to='/enquiry'>
+          <Link to='/enquiry'>
             <button className="bg-[#59A033] hover:bg-[#4a8a2a] text-white px-6 py-3 rounded-full font-semibold hover:text-white cursor-pointer">
               Download Our Zero trust, Invisible cross cloud gateway
             </button>
@@ -45,9 +50,9 @@ const Home = () => {
         </div>
       </div>
       <div>
-      <NewMessageSection/>
+        <NewMessageSection />
       </div>
-      
+
       <div>
         <Flags />
       </div>

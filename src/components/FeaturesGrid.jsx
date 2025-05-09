@@ -14,12 +14,12 @@ const FeaturesGrid = () => {
         "Purpose-built, community storage clouds, built with data residency and cross-country governance. 100% cloud vendor lock-in must be decoupled from users."
     },
     {
-      title: "Security Reliable SaaS model",
+      title: "SaaS based security automation",
       description:
         "World's most reliable, GDPR-compliant, long-term data preservation and management services on a SaaS model."
     },
     {
-      title: "Completely vaulted hack-proof with data sovereignty",
+      title: "Hack-proof data service paired with data sovereignty",
       description:
         "Your data is completely vaulted, hack-proof, and protected with zero cloud provider lock-in. Ransomware attack protection included."
     }
